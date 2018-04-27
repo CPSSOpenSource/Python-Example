@@ -4,8 +4,15 @@ https://github.com/CPSSOpenSource/CPSS_Basic_PPT/blob/master/Python/Python%20%EA
 
 # Result
 The results are determined by third-party applications.<br />
+
 | Version | Result |
 |:---:|:---:|
-| Python 3.5 | [![Build Status](https://travis-ci.org/CPSSOpenSource/Python-Example.svg?branch=report)](https://travis-ci.org/CPSSOpenSource/Python-Example) |
-| Python 3.6 | [![Build Status](https://travis-ci.org/CPSSOpenSource/Python-Example.svg?branch=report)](https://travis-ci.org/CPSSOpenSource/Python-Example) |
+| Python 3.5 | [![Build Status](https://travis-ci.org/CPSSOpenSource/Python-Example.svg?branch=report)] |
+| Python 3.6 | [![Build Status](https://travis-ci.org/CPSSOpenSource/Python-Example.svg?branch=report)] |
+
+<br />
+Output result (python 3.5): https://travis-ci.org/CPSSOpenSource/Python-Example/jobs/371891013 <br />
+Output result (python 3.6): https://travis-ci.org/CPSSOpenSource/Python-Example/jobs/371891014
+
+
 
