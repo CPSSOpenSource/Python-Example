@@ -3,9 +3,9 @@
 https://github.com/CPSSOpenSource/CPSS_Basic_PPT/blob/master/Python/Python%20%EA%B8%B0%EC%B4%88%20%EA%B0%95%EC%9D%98%203%EC%A3%BC%EC%B0%A8.pdf
 
 # Result
-The results are determined by third-party applications.
+The results are determined by third-party applications.<br />
 | Version | Result |
-|:--------:|:--------:|
+|:---:|:---:|
 | Python 3.5 | [![Build Status](https://travis-ci.org/CPSSOpenSource/Python-Example.svg?branch=report)](https://travis-ci.org/CPSSOpenSource/Python-Example) |
 | Python 3.6 | [![Build Status](https://travis-ci.org/CPSSOpenSource/Python-Example.svg?branch=report)](https://travis-ci.org/CPSSOpenSource/Python-Example) |
 
