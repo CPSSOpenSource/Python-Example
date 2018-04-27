@@ -5,5 +5,7 @@ https://github.com/CPSSOpenSource/CPSS_Basic_PPT/blob/master/Python/Python%20%EA
 # Result
 The results are determined by third-party applications.
 | Version | Result |
-|:---------:|:---------:|
-| Python 3.6 | unknown |
+|:--------:|:--------:|
+| Python 3.5 | [![Build Status](https://travis-ci.org/CPSSOpenSource/Python-Example.svg?branch=report)](https://travis-ci.org/CPSSOpenSource/Python-Example) |
+| Python 3.6 | [![Build Status](https://travis-ci.org/CPSSOpenSource/Python-Example.svg?branch=report)](https://travis-ci.org/CPSSOpenSource/Python-Example) |
+
