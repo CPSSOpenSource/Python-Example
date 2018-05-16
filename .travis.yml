@@ -4,7 +4,7 @@ python:
   - "3.6"
 script:
   - cd "4 weeks/prime"
-  - python prime.py < testing.txt
+  - python prime.py < "../../testing.txt"
 before_install:
   - echo $TRAVIS_BUILD_DIR
   - echo "complie started."
