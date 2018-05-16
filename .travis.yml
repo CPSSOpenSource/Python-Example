@@ -3,13 +3,8 @@ python:
   - "3.5"
   - "3.6"
 script:
-  - cd "3 weeks"
-  - python level_1.py
-  - python level_2.py
-  - python level_3.py
-  - python level_4.py
-  - python level_4_2.py
+  - cd "4 weeks/prime"
+  - python prime.py > testing.txt
 before_install:
   - echo $TRAVIS_BUILD_DIR
   - echo "complie started."
-  
